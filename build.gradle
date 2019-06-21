@@ -2,10 +2,10 @@ plugins {
     id 'java'
 }
 
-group 'com.adam'
+group 'com.ak.wars'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = 1.8
+sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()

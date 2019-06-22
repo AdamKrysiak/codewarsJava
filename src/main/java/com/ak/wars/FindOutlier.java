@@ -8,7 +8,7 @@ import static java.lang.Math.abs;
  * Solution for KATA "Find The Parity Outlier"
  * https://www.codewars.com/kata/5526fc09a1bbd946250002dc
  */
-public class FindOutlier {
+class FindOutlier {
 
     static int find(int[] integers) {
         System.out.println(integers);
